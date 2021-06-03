@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with ...
 -
 - 📫 How to reach me:
-![<linkedin>](https://www.linkedin.com/in/soumya-s-samal-71973019a//<LinkedIn #0A66C2>-<Background Color>?style=for-the-badge&logo=LinkedIn&logoColor=white)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/soumya-s-samal-71973019a/)
 
 <!--![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)] eg.-->
 - 😄 Pronouns: She/Her
