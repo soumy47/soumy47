@@ -4,9 +4,9 @@
 **soumy47/soumy47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m a sophomore pursuing my Bachelors in Computer Science and Engineering.
-- 🌱 I’m currently learning problem solving using Data Structure and Algorithms.
-- 👯 I’m looking to collaborate on WEB DEVELOPMENT.
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning problem solving using Data Structure and Algorithms and Web development.
+<!--- 👯 I’m looking to collaborate on WEB DEVELOPMENT.-->
+- 🤔 I’m looking for help with WEB DEVELOPMENT.
 - ## 🛠️ Skills
 
   ### Languages
@@ -15,6 +15,17 @@
   ![C++](https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![HTML](https://img.shields.io/badge/HTML-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
+
+
+  ## 📈 Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ruppysuppy&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
+</div>
+
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
+</div>
 
 
 - 📫 How to reach me:
