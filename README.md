@@ -20,11 +20,11 @@
   ## 📈 Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ruppysuppy&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=soumy47&show_icons=true&hide_border=true" alt="Soumya S. Samal's GitHub Stats">
 </div>
 
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=soumy47.soumy47" alt="visitors">
 </div>
 
 
