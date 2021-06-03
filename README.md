@@ -3,8 +3,6 @@
 
 **soumy47/soumy47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m a sophomore pursuing my Bachelors in Computer Science and Engineering.
 - 🌱 I’m currently learning problem solving using Data Structure and Algorithms.
 - 👯 I’m looking to collaborate on WEB DEVELOPMENT.
