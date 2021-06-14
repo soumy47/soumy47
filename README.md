@@ -10,7 +10,7 @@
   ### Languages
 
   ![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=c++&logoColor=F7DF1E)
+  ![C++](https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=cpp&logoColor=F7DF1E)
   ![HTML](https://img.shields.io/badge/HTML-3178C6?style=for-the-badge&logo=html&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-28B6F6?style=for-the-badge&logo=css&logoColor=white)
 
