@@ -15,8 +15,8 @@
   ![CSS](https://img.shields.io/badge/CSS-28B6F6?style=for-the-badge&logo=css&logoColor=white)
 
 
-  ## 📈 Stats
-
+<!--   ## 📈 Stats -->
+<!-- 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=soumy47&show_icons=true&hide_border=true" alt="Soumya S. Samal's GitHub Stats">
 </div>
@@ -24,7 +24,7 @@
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=soumy47.soumy47" alt="visitors">
 </div>
-
+ -->
 
 - 📫 How to reach me:
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/soumya-s-samal-71973019a/)
